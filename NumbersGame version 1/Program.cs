@@ -11,6 +11,7 @@ namespace NumbersGame_version_1
 
             return randomNumber;
             
+            
         }
 
 
@@ -21,7 +22,7 @@ namespace NumbersGame_version_1
 
             RandomNumberGenerator();
 
-            
+            Console.WriteLine("Hej");
 
             
 
